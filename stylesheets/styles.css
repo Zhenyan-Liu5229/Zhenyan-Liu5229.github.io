@@ -120,11 +120,12 @@ div.side {
 }
 
 a.active {
-  color:#39c;
+  font-weight: bold;
+  color:black;
 }
 
 a.active:hover {
-  color:#39c;
+  font-weight: bold;
 }
 
 strong {
