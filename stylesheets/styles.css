@@ -121,7 +121,10 @@ div.side {
 
 a.active {
   color:#39c;
-  text-decoration: none;
+}
+
+a.active:hover {
+  color:#39c;
 }
 
 strong {
