@@ -120,6 +120,7 @@ div.side {
 }
 
 a.active {
+  color:#39c;
   text-decoration: none;
 }
 
